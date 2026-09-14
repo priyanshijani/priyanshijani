@@ -51,8 +51,3 @@ Microsoft Excel Expert &nbsp;·&nbsp; Power BI Essential Training &nbsp;·&nbsp;
 Personal projects — Power BI dashboards, ML clustering & forecasting models — are available in the repositories on this profile.
 
 ---
-
-<p align="center"><em>Open to relocation &nbsp;|&nbsp; Available to start immediately &nbsp;|&nbsp; References available on request</em></p>
-
-- ⚡ Fun fact: ...
--->
