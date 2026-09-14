@@ -1,15 +1,10 @@
 ## Hi there 👋
-<h1 align="center">Priyanshi Jani</h1>
-<p align="center"><em>Senior Data Specialist | BI & Data Engineering | Predictive Analytics</em></p>
+<p align="left"><em>Senior Data Specialist | BI & Data Engineering | Predictive Analytics</em></p>
 
 ---
-- 🔭 I’m currently working on AI Analytics Dashboard
-- 🌱 I’m currently learning Agentic Data Engineering, exploring intersection between AI & BI 
-- 📫 How to reach me: priyanshijani99@gmail.com
-
----
-
-## 👋 About Me
+🔭 I’m currently working on AI Analytics Dashboard  
+🌱 I’m currently learning Agentic Data Engineering, exploring intersection between AI & BI  
+📫 How to reach me: priyanshijani99@gmail.com  
 
 A data enthusiast with 3+ years of experience, driven by curiosity and a passion for problem-solving across BI development, cloud data engineering, and predictive analytics. I transform complex data into clear, actionable narratives that drive business growth, bridging the gap between raw numbers and strategic outcomes. I thrive at the intersection of analytics, systems thinking, and delivery — helping organisations move beyond reporting to build AI-driven decision frameworks that turn data into a competitive advantage. In a world where information is abundant but clarity is rare, I aim to be the voice that turns noise into vision.
 
