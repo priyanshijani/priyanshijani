@@ -39,15 +39,3 @@ A data enthusiast with 3+ years of experience, driven by curiosity and a passion
 **Rotary Youth Exchange Program** — Cultural Exchange, Germany    
 
 ---
-
-## 📜 Certifications
-
-Microsoft Excel Expert &nbsp;·&nbsp; Power BI Essential Training &nbsp;·&nbsp; SQL Intermediate &nbsp;·&nbsp; Intermediate R &nbsp;·&nbsp; Tableau Intermediate &nbsp;·&nbsp; Git Essential Training &nbsp;·&nbsp; Databricks Essential Training &nbsp;·&nbsp; Claude AI Essentials
-
----
-
-## 📂 Portfolio
-
-Personal projects — Power BI dashboards, ML clustering & forecasting models — are available in the repositories on this profile.
-
----
