@@ -1,41 +1,41 @@
-## Hi there 👋
-<p align="left"><em>Senior Data Specialist | BI & Data Engineering | Predictive Analytics</em></p>
+# Hi, I'm Priyanshi 👋
 
----
-🔭 I’m currently working on AI Analytics Dashboard  
-🌱 I’m currently learning Agentic Data Engineering, exploring intersection between AI & BI  
-📫 How to reach me: priyanshijani99@gmail.com  
+**Analytics Engineer · Databricks & Azure Lakehouse · Semantic Layers & AI-Ready Data**
 
-A data enthusiast with 3+ years of experience, driven by curiosity and a passion for problem-solving across BI development, cloud data engineering, and predictive analytics. I transform complex data into clear, actionable narratives that drive business growth, bridging the gap between raw numbers and strategic outcomes. I thrive at the intersection of analytics, systems thinking, and delivery — helping organisations move beyond reporting to build AI-driven decision frameworks that turn data into a competitive advantage. In a world where information is abundant but clarity is rare, I aim to be the voice that turns noise into vision.
+I build trusted, AI-ready data: from source systems and lakehouse pipelines to the semantic layer, quality controls and the data products that business teams and AI agents rely on. When the numbers don't match reality, I find out why.
 
----
+## What I do at work
 
-## 🛠️ Skills & Expertise
+At my day job, I own the data layer of a client-facing sales and stock analytics platform used by 170+ pharmacies in Belgium:
 
-**Data Engineering:** Databricks, PySpark, ETL Pipelines, Azure Data Factory, Alteryx, MLOps, ML/AI Orchestration
-  
-**Cloud:** Azure (Data Lake), GCP
-  
-**Data Architecture:** Medallion Architecture, Lakehouse, Batch & Streaming Processing
-  
-**BI & Visualization:** Power BI, Tableau, ThoughtSpot, Microsoft Fabric, Excel
-  
-**Data Science:** Predictive Modelling & Forecasting, Regression, Clustering, A/B Testing, Root Cause Analysis
-  
-**Programming:** SQL, Python, R
-  
-**Databases:** SQL Server, MySQL, PostgreSQL, OLTP & OLAP Design Systems
-  
-**DevOps & Productivity Tools:** Git, GitHub, Azure DevOps, JIRA, Agile Methodologies
-  
-**Delivery & Leadership:** Client-facing data ownership, stakeholder engagement, cross-functional collaboration, AI-assisted development workflows
+- **Lakehouse pipelines:** daily ETL processing 500GB+ on a Databricks medallion architecture (PySpark, Azure Data Factory, Azure Data Lake)
+- **Governed metrics:** sales and stock KPIs defined once and calculated consistently across every customer's view
+- **Production ML:** 170+ per-customer LightGBM forecasting models with calibration, walk-forward validation and automated quality gates
+- **Root cause analysis:** tracing data discrepancies from the application back to source
+- **AI-assisted engineering:** reusable Claude-based agentic workflows for pipeline development, testing and RCA
 
----
+That work is client-confidential, so the repos here are personal projects that show the same thinking on open data.
 
-## 🎓 Education
+## How I think about data
 
-**MSc Business Analytics and Decision Sciences** — University of Leeds, UK (Russell Group)  
-**BBA International Business & Entrepreneurship** — GLS University, Ahmedabad, India  
-**Rotary Youth Exchange Program** — Cultural Exchange, Germany    
+```
+business definition → data requirement → source mapping → transformation logic → validation → consumption
+```
 
----
+Every metric should have one definition, a known lineage and tests that prove it's right, so both people and AI systems can trust it.
+
+## Tech stack
+
+**Data engineering:** SQL · Python · PySpark · Databricks · Azure Data Factory · Azure Data Lake · Azure DevOps
+**Analytics engineering:** Data modelling · Semantic models · Data quality & lineage · KPI design
+**BI:** Power BI (DAX, semantic models) · Microsoft Fabric · Tableau · ThoughtSpot
+**ML:** LightGBM · Time-series forecasting · Calibration · Regression · Clustering
+**Currently learning:** dbt · Kafka · Snowflake
+
+## Background
+
+MSc Business Analytics & Decision Sciences, University of Leeds · Previously built BI and SQL pipelines for fintech, healthcare and SaaS clients · Lived a year in Germany on a Rotary Youth Exchange.
+
+## Get in touch
+
+📫 priyanshijani99@gmail.com · [LinkedIn](https://www.linkedin.com/in/priyanshi-jani)
