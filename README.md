@@ -38,4 +38,4 @@ MSc Business Analytics & Decision Sciences, University of Leeds · Previously bu
 
 ## Get in touch
 
-📫 priyanshijani99@gmail.com · [LinkedIn](https://www.linkedin.com/in/priyanshi-jani)
+📫 priyanshiijani@gmail.com · [LinkedIn](https://www.linkedin.com/in/priyanshi-jani)
